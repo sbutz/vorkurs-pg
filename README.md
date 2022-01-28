@@ -1,2 +1,3 @@
-# vorkurs_pg
+# vorkurs-pg
 
+Exercises of the introductory programming course at OTH.
